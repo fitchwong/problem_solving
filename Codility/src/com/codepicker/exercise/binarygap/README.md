@@ -19,4 +19,4 @@ For example, given N = 1041 the function should return 5, because N has binary r
 
 Testing Result
 -
-![Analysis Summary](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/binarygap/test_results.jpg)
+[Analysis Summary](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/binarygap/test_results.jpg)
