@@ -1,7 +1,7 @@
 # Probability to Goal
 
-Question
--
+<strong>Question</strong>
+
 There is a game board with “n” spaces from the starting point to end point.
 
 You are going to roll a 6-faced dice and move forward the same number of spaces that you rolled.
