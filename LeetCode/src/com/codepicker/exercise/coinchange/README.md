@@ -22,4 +22,13 @@ You may assume that you have an infinite number of each kind of coin.
 
 <strong>Testing Result</strong>
 
-[Analysis Summary](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange/test_results.jpg)
+[Analysis Summary - coinChangeSlow](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange/test_results_slow.jpg)
+
+- Computation Complexity: O(kn)
+- Space Complexity: O(lgn)
+- P.S. LinkedList is slower, however, this implementation should use less memory in runtime  
+
+[Analysis Summary - coinChangeFast](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange/test_results_fast.jpg)
+
+- Computation Complexity: O(kn)
+- Space Complexity: O(n)
