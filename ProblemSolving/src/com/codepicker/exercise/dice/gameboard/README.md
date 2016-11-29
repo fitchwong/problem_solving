@@ -8,7 +8,7 @@ You are going to roll a 6-faced dice and move forward the same number of spaces 
 
 Please implement a program that calculates how many possible ways are there to arrive exactly at the finishing point.
 
-<string>Solution</strong>
+<strong>Solution</strong>
 
 Assume N = 1, there is only 1 way to reach the end point.
 
