@@ -34,5 +34,3 @@ Create another function with 1 more parameter to pass the value accumulated from
 [Analysis Summary - findRepeatedDnaSequencesFast](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/sumroottoleafnumbers/test_results_normal.jpg)
 
 - Computation Complexity: O(n)
-- Space Complexity: O(n)
-- P.S. using int[] instead of HashMap to reduce to accessing time
