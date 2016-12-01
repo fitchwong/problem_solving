@@ -17,8 +17,6 @@ Write a function to find all the 10-letter-long sequences (substrings) that occu
 
 Simply use a HashSet to store what was found.
 
-<strong>Testing Result</strong>
-
 [Analysis Summary - findRepeatedDnaSequencesSlow](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/repeateddnasequence/test_results_slow.jpg)
 
 - Computation Complexity: O(n)
