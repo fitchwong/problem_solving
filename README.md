@@ -3,6 +3,7 @@ This repository include different questions and solution
 
 Codility
 - [Binary Gap](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/binarygap)
+- [Cyclic Rotation](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/cyclicrotation)
 
 LeetCode
 - [Coin Change](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange)
