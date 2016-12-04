@@ -6,6 +6,7 @@ Codility
 
 LeetCode
 - [Coin Change](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange)
+- [Poor Pigs](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/poorpigs)
 - [Repeated DNA Sequences](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/repeateddnasequence)
 - [Sum Root To Leaf Numbers](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/sumroottoleafnumbers)
 
