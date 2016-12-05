@@ -4,6 +4,7 @@ This repository include different questions and solution
 Codility
 - [Binary Gap](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/binarygap)
 - [Cyclic Rotation](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/cyclicrotation)
+- [Frog Jump](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/frogjump)
 - [Odd Occurrences In Array](https://github.com/RaysonYeungHK/problem_solving/tree/master/Codility/src/com/codepicker/exercise/oddoccurrencesinarray)
 
 LeetCode
