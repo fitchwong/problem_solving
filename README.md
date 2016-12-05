@@ -11,6 +11,7 @@ LeetCode
 - [Coin Change](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/coinchange)
 - [Poor Pigs](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/poorpigs)
 - [Repeated DNA Sequences](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/repeateddnasequence)
+- [Reverse Word in a String](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/reversewords)
 - [Sum Root To Leaf Numbers](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/sumroottoleafnumbers)
 
 ProblemSolving
