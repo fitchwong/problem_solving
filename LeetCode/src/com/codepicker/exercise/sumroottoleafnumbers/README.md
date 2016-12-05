@@ -31,6 +31,6 @@ If the modification is allowed, this is solution that can reuse the same functio
 
 Create another function with 1 more parameter to pass the value accumulated from parent.
 
-[Analysis Summary - findRepeatedDnaSequencesFast](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/sumroottoleafnumbers/test_results_normal.jpg)
+[Analysis Summary - sumNumbersNormal](https://github.com/RaysonYeungHK/problem_solving/tree/master/LeetCode/src/com/codepicker/exercise/sumroottoleafnumbers/test_results_normal.jpg)
 
 - Computation Complexity: O(n)
